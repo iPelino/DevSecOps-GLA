@@ -95,7 +95,7 @@ Navigate to Settings > Branches > Add rule and configure:
 1. Branch name pattern: `main`
 2. Required settings:
    - Require a pull request before merging
-   - Require approvals: 2
+   - Require approvals: 1
    - Dismiss stale pull request approvals when new commits are pushed
    - Require review from Code Owners
    - Require status checks to pass before merging
